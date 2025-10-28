@@ -74,7 +74,7 @@ Interactive Mode (no test file):
 Evaluation Metrics (ROUGE)
 --------------------------------------------------
 Example results:
-    {'rouge1': 41.23, 'rouge2': 18.45, 'rougeL': 38.72, 'gen_len': 125.6}
+    {'rouge1': 41.23, 'rouge2': 18.45, 'rougeL': 38.72, 'gen_len': 25.6}
 
 --------------------------------------------------
 Tips for Better Performance:
@@ -102,16 +102,6 @@ Dependencies:
 - Datasets
 - Evaluate
 - Sentencepiece
-
---------------------------------------------------
-Final Output Files:
---------------------------------------------------
-t5-cnn-finetuned/
-  ├── config.json
-  ├── pytorch_model.bin
-  ├── tokenizer.json
-  ├── tokenizer_config.json
-  └── special_tokens_map.json
 
 Use this model directory for summarization tasks.
 
