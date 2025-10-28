@@ -1,0 +1,50 @@
+[
+  {
+    "text": "I'm so happy and excited about this!",
+    "predicted_label": "Neutral",
+    "predicted_id": 2,
+    "confidence": 0.9341209530830383,
+    "all_probs": {
+      "Joy": 0.039379868656396866,
+      "Sadness": 0.023214608430862427,
+      "Neutral": 0.9341209530830383,
+      "Anger": 0.003284502774477005
+    }
+  },
+  {
+    "text": "This is making me really angry and frustrated.",
+    "predicted_label": "Anger",
+    "predicted_id": 3,
+    "confidence": 0.898074746131897,
+    "all_probs": {
+      "Joy": 0.029481099918484688,
+      "Sadness": 0.06960805505514145,
+      "Neutral": 0.002836131025105715,
+      "Anger": 0.898074746131897
+    }
+  },
+  {
+    "text": "I feel so sad and depressed today.",
+    "predicted_label": "Sadness",
+    "predicted_id": 1,
+    "confidence": 0.8898237943649292,
+    "all_probs": {
+      "Joy": 0.0791790634393692,
+      "Sadness": 0.8898237943649292,
+      "Neutral": 0.00825926847755909,
+      "Anger": 0.022737856954336166
+    }
+  },
+  {
+    "text": "Just another regular day, nothing special.",
+    "predicted_label": "Sadness",
+    "predicted_id": 1,
+    "confidence": 0.5036922097206116,
+    "all_probs": {
+      "Joy": 0.4224977493286133,
+      "Sadness": 0.5036922097206116,
+      "Neutral": 0.054030220955610275,
+      "Anger": 0.019779790192842484
+    }
+  }
+]
