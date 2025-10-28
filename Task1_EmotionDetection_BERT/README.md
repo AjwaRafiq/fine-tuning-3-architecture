@@ -1,5 +1,5 @@
 
-🧠 README – Task 1: Emotion Detection using BERT
+ README – Task 1: Emotion Detection using BERT
 
 Project Title:
 Emotion Detection from Text using BERT
